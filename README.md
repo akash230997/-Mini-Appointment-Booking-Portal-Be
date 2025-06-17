@@ -27,8 +27,5 @@ Styling: Custom dark theme with Bootstrap overrides
 
 🧑‍💼 Author Akash Meena Frontend & Backend Developer (MERN Stack) 📬 Contact Email: akash.meena23@gmail.com LinkedIn: https://www.linkedin.com/in/akash-meena-79b94b113/
 
-EVN's : 
-PORT=5000
-MONGO_URI=mongodb+srv://akashmeena23:Q2k2KqmcOCbITuM0@cluster0.tfedtb4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 
